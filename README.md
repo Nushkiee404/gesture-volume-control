@@ -45,3 +45,28 @@ Built with **Python, OpenCV, and Mediapipe**, this project blends AI and human-c
 git clone https://github.com/Nushkiee404/gesture-volume-control.git
 cd gesture-volume-control
 
+## 📂 Project Structure
+gesture-volume-control/
+│
+├── hand_gesture_volume.py     # Main script
+├── requirements.txt           # Dependencies
+├── demo.gif                   # Demo animation
+└── README.md                  # Documentation
+
+---
+
+## 🌟 Future Improvements
+- ✨ Add gesture-based brightness control  
+- 🎮 Integrate gesture recognition with media playback  
+- ☁️ Deploy as a real-time web app using Streamlit  
+
+---
+
+## 👩‍💻 Author
+**Anushka Sharma**  
+📧 Email: your-email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Nushkiee404)
+
+---
+
+⭐ *If you like this project, don’t forget to star the repo!*
